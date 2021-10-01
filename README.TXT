@@ -1,12 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This is a recreation of Bomberman. As a kid this was one of my favourite games growing up and so I dicided to make my own version of the game using Java. This is the second version of the game where I just added a 2 player mode as well as a second ice level.
+]
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
